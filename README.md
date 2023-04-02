@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/120461225/229361161-3cdd77a2-0207-4c1c-8776-013d9f64a8e6.jpg"></p>
 
-<p>A partir do banco de dados disponibilizados pela Microsoft, o <strong>Adventure Works 2014</strong>, utilizando o <strong>Microsoft SQL Server Management Studio</strong>, e o Excel para exibir as informações analisadas em um <em>Dashboard</em>, com <em>gráfico de barra</em>, <em>gráfico de pizza</em>, <em>gráfico de rosca</em>, e <em>gráfico de barras</em>. Esse projeto foi feito durante um curso como atividade pr&aacute;tica, proposto como desafio final do módulo de <em>SQL Server</em>.</p>
+<p>A partir do banco de dados disponibilizados pela Microsoft, o <strong>Adventure Works 2014</strong>, utilizando o <strong>Microsoft SQL Server Management Studio</strong>, e o Excel para exibir as informações analisadas em um <em>Dashboard</em>, com <em>gráfico de barra</em>, <em>gráfico de pizza</em> e <em>gráfico de rosca</em>. Esse projeto foi feito durante um curso como atividade pr&aacute;tica, proposto como desafio final do módulo de <em>SQL Server</em>.</p>
 
 ## Informações Exibidas
 <ul>
